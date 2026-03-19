@@ -2,6 +2,11 @@
 
 基于 ESP32-S3 的高性能环境监测站，集成了空气质量检测、实时气象预报、MQTT 遥测及 OLED 分页显示功能。
 
+## 📸 预览 (模拟截图)
+| 天气预报页 (Page 0) | 实时传感器页 (Page 1) |
+| :---: | :---: |
+| ![Weather Page](preview_page0.png) | ![Sensor Page](preview_page1.png) |
+
 ## 🌟 核心特性
 - **双空气质量传感器**：
   - **Bosch BME680**：通过官方 BSEC2 算法提供 IAQ（室内空气质量）、等效 CO2、气压、温湿度监测。
