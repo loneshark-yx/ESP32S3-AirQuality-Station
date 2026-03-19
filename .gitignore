@@ -1,0 +1,9 @@
+# ESP32S3-AirQuality-Station/secrets.h 包含敏感信息，禁止上传
+secrets.h
+
+# 编译生成的临时文件
+build/
+.arduinoIDE/
+*.bin
+*.elf
+*.hex
